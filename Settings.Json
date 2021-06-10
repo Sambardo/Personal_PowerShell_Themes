@@ -1,0 +1,34 @@
+{
+    "workbench.colorTheme": "Miami",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.defaultLanguage": "${activeEditorLanguage}",
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.enableBell": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.autofetch": true,
+    "editor.semanticTokenColorCustomizations": null,
+
+    "workbench.colorCustomizations": {
+        "terminal.background":"#000000",
+        "terminal.foreground":"#EA549F",
+        "terminalCursor.background":"#D9D8D8",
+        "terminalCursor.foreground":"#D9D8D8",
+        "terminal.ansiBlack":"#231F20",
+        "terminal.ansiBlue":"#009DDC",
+        "terminal.ansiBrightBlack":"#737173",
+        "terminal.ansiBrightBlue":"#009DDC",
+        "terminal.ansiBrightCyan":"#85CEBC",
+        "terminal.ansiBrightGreen":"#00853E",
+        "terminal.ansiBrightMagenta":"#98005D",
+        "terminal.ansiBrightRed":"#EE2E24",
+        "terminal.ansiBrightWhite":"#FFFFFF",
+        "terminal.ansiBrightYellow":"#FFD204",
+        "terminal.ansiCyan":"#85CEBC",
+        "terminal.ansiGreen":"#00853E",
+        "terminal.ansiMagenta":"#98005D",
+        "terminal.ansiRed":"#EE2E24",
+        "terminal.ansiWhite":"#D9D8D8",
+        "terminal.ansiYellow":"#FFD204"
+    }
+}
